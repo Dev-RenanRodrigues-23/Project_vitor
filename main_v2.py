@@ -1,1 +1,1 @@
-print("Hellow Word, dia 1 até engenheiro de dadoos")
+print("Hellow Word, dia 1 até engenheiro de dados")
