@@ -1,0 +1,1 @@
+print("Hellow Word, dia 1 até engenheiro de dadoos")
