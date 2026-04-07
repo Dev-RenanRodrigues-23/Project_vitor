@@ -1,0 +1,6 @@
+
+
+Criar o ambiente python    ---- -m venv .venv ( .venv = Pode ser qualquer nome)
+Ativar a venv              ---- .venv\Scripts\activate
+Desativar                  ---- deactivate
+Ver oq esta instalado      ---- pip freeze ou pip list

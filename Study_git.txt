@@ -1,0 +1,7 @@
+--- Aqui eu vou tentar organizar os principais comandos ---
+
+git add . → prepara arquivos
+git status - ve oque esta preparado para ser enviado ao git
+git commit → salva uma versão
+git push → envia pro GitHub
+.gitgnore - ignora os arquivos ( Necessario criar um arquivo e colocar os nomes la dentro )
