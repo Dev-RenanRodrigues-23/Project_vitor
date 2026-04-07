@@ -5,6 +5,6 @@ git init - começa tudo
 git add . → prepara arquivos
 git reset - caso tenha add algo e queira tirar
 git status - ve oque esta preparado para ser enviado ao git
-git commit - m "alguma mensagem" → salva uma versão
+git commit -m "alguma mensagem" → salva uma versão
 git push → envia pro GitHub
 .gitgnore - ignora os arquivos ( Necessario criar um arquivo e colocar os nomes la dentro )
